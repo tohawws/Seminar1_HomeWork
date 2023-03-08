@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\77768\\Desktop\\учеба\\HomeWork\\3. Знакомство с языками програмирования\\Seminar1_HomeWork\\Seminar1_HomeWork.csproj": {}
+    "C:\\Users\\77768\\Desktop\\учеба\\HomeWork\\3. Знакомство с языками програмирования\\Seminar\\Seminar1_HomeWork\\Seminar1_HomeWork.csproj": {}
   },
   "projects": {
-    "C:\\Users\\77768\\Desktop\\учеба\\HomeWork\\3. Знакомство с языками програмирования\\Seminar1_HomeWork\\Seminar1_HomeWork.csproj": {
+    "C:\\Users\\77768\\Desktop\\учеба\\HomeWork\\3. Знакомство с языками програмирования\\Seminar\\Seminar1_HomeWork\\Seminar1_HomeWork.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\77768\\Desktop\\учеба\\HomeWork\\3. Знакомство с языками програмирования\\Seminar1_HomeWork\\Seminar1_HomeWork.csproj",
+        "projectUniqueName": "C:\\Users\\77768\\Desktop\\учеба\\HomeWork\\3. Знакомство с языками програмирования\\Seminar\\Seminar1_HomeWork\\Seminar1_HomeWork.csproj",
         "projectName": "Seminar1_HomeWork",
-        "projectPath": "C:\\Users\\77768\\Desktop\\учеба\\HomeWork\\3. Знакомство с языками програмирования\\Seminar1_HomeWork\\Seminar1_HomeWork.csproj",
+        "projectPath": "C:\\Users\\77768\\Desktop\\учеба\\HomeWork\\3. Знакомство с языками програмирования\\Seminar\\Seminar1_HomeWork\\Seminar1_HomeWork.csproj",
         "packagesPath": "C:\\Users\\77768\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\77768\\Desktop\\учеба\\HomeWork\\3. Знакомство с языками програмирования\\Seminar1_HomeWork\\obj\\",
+        "outputPath": "C:\\Users\\77768\\Desktop\\учеба\\HomeWork\\3. Знакомство с языками програмирования\\Seminar\\Seminar1_HomeWork\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\77768\\AppData\\Roaming\\NuGet\\NuGet.Config"
