@@ -1,8 +1,8 @@
 ﻿// Задача 2: Напишите программу, которая на вход принимает 
 //два числа и выдает, какое число большее, а какое меньшее.
 
-/*  
-Console.WriteLine("Введите число");
+ 
+/* Console.WriteLine("Введите число");
 int number1 = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("Введите число");
 int number2 = Convert.ToInt32(Console.ReadLine());
@@ -17,8 +17,8 @@ else
 {
   Console.WriteLine("Большее число = " + number2);
   Console.WriteLine("Меньшее число = " + number1);
-} 
-*/
+}  */
+
 
 
 
@@ -26,7 +26,7 @@ else
 /* Задача 4: Напишите программу, которая принимает на вход 
 три числа и выдает максимальное из этих чисел. */
 
-/*  
+ 
 Console.WriteLine("Введите первое число");
 int number1 = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("Введите второе число");
@@ -48,7 +48,7 @@ else if (number3 > number1)
 {
   Console.Write("Максимальное число = " + number3);
 }
-*/
+
 
 
 
