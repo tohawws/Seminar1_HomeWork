@@ -33,7 +33,7 @@ Console.Write("Введите X точки B = ");
 int XB = Convert.ToInt32(Console.ReadLine());
 Console.Write("Введите Y точки B = ");
 int YB = Convert.ToInt32(Console.ReadLine());
-Console.Write("Введите Y точки B = ");
+Console.Write("Введите Z точки B = ");
 int ZB = Convert.ToInt32(Console.ReadLine());
 
 double number = Math.Sqrt((Math.Pow((XA - XB), 2)) + (Math.Pow((YA - YB), 2)) + (Math.Pow((ZA-ZB),2)));
