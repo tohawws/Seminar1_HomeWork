@@ -7,6 +7,7 @@ int count = 0;
 for (int i = 0; i < array.Length; i++)
 {
   array[i] = new Random().Next(100,1000);
+  
   if (array[i]%2 == 0) count++;
 }
 Console.WriteLine(String.Join(",", array));
@@ -18,17 +19,14 @@ Console.WriteLine($"Количество четных чисел в массив
 [3, 7, 23, 12] -> 19
 [-4, -6, 89, 6] -> 0 */
 
-/* int[] array = new int[10];
+/* int[] array = new int[6];
 int sum = 0;
 
 for (int i = 0; i < array.Length; i++)
 {
   array[i] = new Random().Next(-100, 101);
 
-  if (i % 2 != 0)
-  {
-    sum += array[i];
-  }
+  if (i % 2 != 0) sum += array[i];
 }
 Console.WriteLine(String.Join(", ", array));
 Console.WriteLine($"Сумма нечетных элементов = {sum}"); */
@@ -45,7 +43,7 @@ int min = array[0];
 for (int i = 0; i < array.Length; i++)
 {
   if (array[i] > max) max = array[i];
-  else if (array[i] <= min) min = array[i];
+  else if (array[i] < min) min = array[i];
 }
 Console.WriteLine($"Разница между максимальным и минимальным числом = {max-min}"); */
 
